@@ -68,7 +68,7 @@
 .button4
 {
     -fx-background-color :linear-gradient(to top left, #3dd8f3, #0571ba);
-    -fx-background-radius :  ;
+    -fx-background-radius : 0 0 0 0 ;
 }
 .button4:hover
 {
@@ -84,7 +84,7 @@
 .buttonjoin
 {
     -fx-background-color :linear-gradient(to top left, #25f544, #adbaad);
-    -fx-background-radius :  ;
+    -fx-background-radius :0 0 0  0  ;
 }
 
 .buttonjoin:hover

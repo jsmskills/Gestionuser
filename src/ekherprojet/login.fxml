@@ -17,12 +17,12 @@
       <Button fx:id="btnsignup" layoutX="251.0" layoutY="261.0" mnemonicParsing="false" onAction="#Gotosignup" prefHeight="33.0" prefWidth="90.0" styleClass="buttonjoin" stylesheets="@css.css" text="Join us" />
       <ImageView fitHeight="33.0" fitWidth="35.0" layoutX="163.0" layoutY="102.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../../images/mailphoto.png.png" />
+            <Image url="@../images/mailphoto.png.png" />
          </image>
       </ImageView>
       <ImageView fitHeight="33.0" fitWidth="33.0" layoutX="163.0" layoutY="167.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../../images/key.png.png" />
+            <Image url="@../images/key.png.png" />
          </image>
       </ImageView>
       <PasswordField fx:id="fpwd" layoutX="210.0" layoutY="159.0" prefHeight="33.0" prefWidth="173.0" promptText="mot de passe" />
@@ -34,15 +34,15 @@
             <Font name="Arial Unicode MS" size="12.0" />
          </font>
       </Label>
-      <AnchorPane layoutY="-7.0" prefHeight="66.0" prefWidth="750.0" style="-fx-background-color: #76aae3;" />
+      <AnchorPane layoutY="-7.0" prefHeight="66.0" prefWidth="759.0" style="-fx-background-color: #76aae3;" />
       <ImageView fitHeight="206.0" fitWidth="152.0" layoutX="-12.0" layoutY="7.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../../images/ourlogo.png.png" />
+            <Image url="@../images/ourlogo.png.png" />
          </image>
       </ImageView>
       <ImageView fitHeight="298.0" fitWidth="364.0" layoutX="395.0" layoutY="79.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../../images/lear.jpg" />
+            <Image url="@../images/lear.jpg" />
          </image>
       </ImageView>
    </children>

@@ -14,7 +14,7 @@
       <TextField fx:id="vrfcodetxt" layoutX="43.0" layoutY="219.0" prefHeight="45.0" prefWidth="228.0" promptText="you verification code" />
       <ImageView fitHeight="275.0" fitWidth="263.0" layoutX="342.0" layoutY="51.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../../images/ppp.png" />
+            <Image url="@../images/ppp.png" />
          </image>
       </ImageView>
    </children>
